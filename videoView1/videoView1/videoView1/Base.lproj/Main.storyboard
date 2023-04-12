@@ -72,6 +72,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="cei-c0-YZm"/>
+                    <connections>
+                        <outlet property="myVideoView" destination="Ohy-HA-5yo" id="Y5T-lr-1Se"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tFR-7F-acW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
